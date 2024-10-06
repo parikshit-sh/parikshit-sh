@@ -3,7 +3,6 @@
 
 ## Technologies I use 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,bootstrap)
-![Skills](https://skillicons.dev/icons?i=python,django,angular,mongodb,mysql,nodejs,expressjs,npm)
 
 ## Projects
 
